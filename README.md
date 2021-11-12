@@ -4,8 +4,8 @@
 - Operator overload
 - `>`, `<`, `>=`, `<=`, `==` and `!=`.
 - `+`, `-`, `*`, and `/`.
-- pre-increment, post-increment, pre-decrement and post-decrement.
-- min, max
+- `pre-increment`, `post-increment`, `pre-decrement` and `post-decrement`.
+- `min`, `max`
 
 ## ex01
 - Operator overload

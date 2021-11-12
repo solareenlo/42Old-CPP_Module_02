@@ -9,6 +9,7 @@
 
 ## ex01
 - Operator overload
+- `<<`
 - Fixed point
 
 ## ex00

@@ -6,7 +6,7 @@
 /*   By: tayamamo <tayamamo@student.42tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/12 09:19:30 by tayamamo          #+#    #+#             */
-/*   Updated: 2021/11/12 09:44:18 by tayamamo         ###   ########.fr       */
+/*   Updated: 2021/11/12 11:05:36 by tayamamo         ###   ########.fr       */
 /*   Copyright 2021                                                           */
 /* ************************************************************************** */
 #ifndef FIXED_HPP_
@@ -19,6 +19,7 @@ class Fixed {
     Fixed();
     virtual ~Fixed();
     Fixed(Fixed const& src);
+
     Fixed& operator=(Fixed const& rhs);
 
     int getRawBits(void) const;

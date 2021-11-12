@@ -1,5 +1,12 @@
 # 42Old-CPP_Module_02
 
+## ex02
+- Operator overload
+- `>`, `<`, `>=`, `<=`, `==` and `!=`.
+- `+`, `-`, `*`, and `/`.
+- pre-increment, post-increment, pre-decrement and post-decrement.
+- min, max
+
 ## ex01
 - Operator overload
 - Fixed point
